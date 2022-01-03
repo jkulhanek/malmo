@@ -33,6 +33,7 @@
 #include <fstream>
 #include <iostream>
 #include <queue>
+#include <stack>
 
 namespace malmo
 {
